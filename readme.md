@@ -1,6 +1,6 @@
-# Emergency Complimenter with Mongoose
+# Emo Complimenter with Mongoose
 
-We're going to revisit the Emergency Compliment app from a couple nights ago, except with a few key differences this time. Instead of pulling from and pushing to an array of compliments saved locally, we're going to pull from and push to a Mongo database that exists on a server somewhere.
+We're going to revisit the Emo Compliment app from a couple nights ago, except with a few key differences this time. Instead of pulling from and pushing to an array of compliments saved locally, we're going to pull from and push to a Mongo database that exists on a server somewhere.
 
 ## STEPS
 
